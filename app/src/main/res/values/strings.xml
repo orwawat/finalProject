@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Haircut</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_customer_activty">CustomerActivty</string>
+    <string name="title_activity_barber">BarberActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="log_out_action">Confirm Log Out?</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+</resources>

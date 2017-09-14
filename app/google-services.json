@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "36023265409",
+    "firebase_url": "https://my-haircut-7d44f.firebaseio.com",
+    "project_id": "my-haircut-7d44f",
+    "storage_bucket": "my-haircut-7d44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36023265409:android:3c0982ccc97e6154",
+        "android_client_info": {
+          "package_name": "com.amdroidtech.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36023265409-lh0r93nn69n5q013rvepn3kn8tmbe5f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTN3PYK_xkui-qRYJ7llFziagIhoYB3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
