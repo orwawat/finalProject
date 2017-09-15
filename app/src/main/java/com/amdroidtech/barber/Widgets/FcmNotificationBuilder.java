@@ -1,8 +1,5 @@
 package com.amdroidtech.barber.Widgets;
 
-/**
- * Created by Ahmed Donkl on 1/12/2017.
- */
 
 import android.util.Log;
 
